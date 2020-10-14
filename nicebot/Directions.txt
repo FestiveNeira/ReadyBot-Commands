@@ -1,0 +1,1 @@
+place 'main.js' and 'unforgiven.json' in the readybot folder, then place the 'nicebot.js' file in '*\text\generics'.
